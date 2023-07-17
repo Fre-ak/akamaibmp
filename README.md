@@ -1,6 +1,6 @@
 # akamaibmp
 
-akamaibmp ios端最新版纯算法
+akamaibmp ios端最新版纯算法 高并发
 
 X-Acf-Sensor-Data
 
